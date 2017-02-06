@@ -1,3 +1,5 @@
 node_modules
 *.wsp
-dist
+dist/
+.tmp
+app.yaml
