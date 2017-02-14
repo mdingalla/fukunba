@@ -8,7 +8,7 @@ module.exports = {
   entry: {
       // "vendor": "./SiteAssets/tsapp/vendor.tsx",
     // "app": ["./SiteAssets/app/main","./SiteAssets/app/router"]
-       "app": ['babel-polyfill',"./src/app/index.jsx"],
+       "app": ['babel-polyfill',"./src/app/index.jsx"]
     //   "activity":['babel-polyfill',"./react-app/activity.jsx"],
     // "home":['babel-polyfill',"./react-app/home.jsx"]
   },
